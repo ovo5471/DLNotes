@@ -76,7 +76,7 @@ $$ E_{z\sim q_{\phi}(z|x)}[log(\frac{p_{\theta}(x|z)p(z)}{q_{\phi}(z|x)})] = E_{
 </p>
 
 ****
-
+   
 **Diffusion Process**
 <p style="text-align: center;">
 <img src="9.png" width="600" height="340"/>
@@ -91,15 +91,29 @@ $$ E_{z\sim q_{\phi}(z|x)}[log(\frac{p_{\theta}(x|z)p(z)}{q_{\phi}(z|x)})] = E_{
 
 ****
 
-**Reverse Process**
+**Reverse Process and Max Log-likelihood**
 
-****
+我重新推导了一遍所有的公式，比原文更简洁但不保证完全正确性。
 
-**MAX log-likelihhod**
+![p1](./11.jpg)
+![p1](./12.jpg)
+![p1](./13.jpg)
+
+实在是太难为我的数学和智商了。
 
 ****
 
 **code**
+来自[B站视频](https://www.bilibili.com/video/BV1b541197HX?vd_source=9c6d95442eaa08adb6f5c78841910257)
+
+![p1](./14.png)
+![p1](./15.png)
+![p1](./16.png)
+![p1](./17.png)
+![p1](./18.png)
+![p1](./19.png)
+![p1](./20.png)
+![p1](./21.png)
 
 
 
