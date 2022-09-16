@@ -113,7 +113,7 @@ $$ E_{z\sim q_{\phi}(z|x)}[log(\frac{p_{\theta}(x|z)p(z)}{q_{\phi}(z|x)})] = E_{
 ![p1](./18.png)
 ![p1](./19.png)
 ![p1](./20.png)
-![p1](./21.png)
+![p1](./21.png)A
 
 
 
