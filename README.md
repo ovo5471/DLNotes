@@ -1,4 +1,3 @@
 README
 
-
-Why the hell should I study diffusion model.
+Records of some interesting works in deep learning.
